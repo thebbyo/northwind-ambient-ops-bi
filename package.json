@@ -1,0 +1,13 @@
+{
+  "name": "northwind-ambient-ops-bi",
+  "version": "1.0.0",
+  "description": "Northwind Ambient Ops - Business Intelligence Engineering Practical Assessment",
+  "main": "src/logic.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
