@@ -14,7 +14,7 @@ Fill this in, commit it, and confirm every line before you submit. An unfilled c
 - [x] Retool app shared with `shakira.mustahid@commure.com`
 - [x] A Retool Release version is tagged
 - [x] GitHub repo accessible to reviewers - URL: `https://github.com/thebbyo/northwind-ambient-ops-bi`
-- [x] Video link (≤12 min, single take, screen + voice): `[Link attached in submission email / Drive / Loom]`
+- [x] Video link (≤12 min, single take, screen + voice): `https://drive.google.com/file/d/1e7nllKN3f4d5zLPCzstiu0AOLDoK_bkM/view?usp=sharing`
 
 ---
 
